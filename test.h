@@ -11,6 +11,9 @@ public:
     void Test_1(){
        cout << "Test_1" << endl;
     }
+    void peter(){
+        cout<<"peter"<<endl;
+    }
     Test(/* args */);
     ~Test();
 };
